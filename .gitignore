@@ -56,4 +56,4 @@ yarn-error.log
 package-lock.json
 
 # Ignore all files in the ui-components directory
-pages/ui-components/
+# pages/ui-components/

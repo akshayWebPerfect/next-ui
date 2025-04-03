@@ -54,3 +54,6 @@ Dockerfile.dev
 yarn-error.log
 **yarn.lock**  # <-- Ignore Yarn Lock file
 package-lock.json
+
+# Ignore all files in the ui-components directory
+pages/ui-components/
